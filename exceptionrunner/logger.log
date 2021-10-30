@@ -1,0 +1,8 @@
+2021-10-29 21:47:26 信息 edu.baylor.ecs.si.Timer <clinit> starting the app
+2021-10-29 21:47:26 信息 edu.baylor.ecs.si.Timer timeMe Calling took: 0
+2021-10-29 21:47:26 信息 edu.baylor.ecs.si.Timer timeMe * should take: 0
+2021-10-29 21:47:26 较详细 org.junit.jupiter.engine.execution.ConditionEvaluator logResult Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] on [void edu.baylor.ecs.si.Tester.failOverTest() throws edu.baylor.ecs.si.TimerException] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+2021-10-29 21:47:26 信息 edu.baylor.ecs.si.Timer timeMe * should take: -1
+2021-10-29 21:47:26 较详细 org.junit.jupiter.engine.execution.ConditionEvaluator logResult Evaluation of condition [org.junit.jupiter.engine.extension.DisabledCondition] on [void edu.baylor.ecs.si.Tester.passingTest() throws edu.baylor.ecs.si.TimerException] resulted in: ConditionEvaluationResult [enabled = true, reason = '@Disabled is not present']
+2021-10-29 21:47:27 信息 edu.baylor.ecs.si.Timer timeMe Calling took: 1014
+2021-10-29 21:47:27 信息 edu.baylor.ecs.si.Timer timeMe * should take: 1000
